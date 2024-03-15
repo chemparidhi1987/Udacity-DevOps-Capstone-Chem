@@ -1,6 +1,6 @@
 ---
 Description: >
-  Felix Lutze / Capstone Project
+  Chemparidhi M S / Capstone Project
   Creates a VPC with public subnets for EKS.
 
 Parameters:
